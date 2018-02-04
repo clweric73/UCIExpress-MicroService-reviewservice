@@ -1,0 +1,4 @@
+movieservice:
+ url: http://movieservice:8889
+swarm:
+ Logging: DEBUG
